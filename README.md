@@ -9,6 +9,7 @@ Un blog increíble para el [Curso de Git y Guthub](https://platzi.com/cursos/git
 * El flujo de trabajo en Github
 * El gusto por las buenas practicas de versionamiento
 * Trucos y comandos secretos dados por Freddy (profesor del curso)
+* Creado junto a mis compañeros de Platzi
 * Atajos al multiverso
 
 Como un amable recordatorio de que este **Readme.md** fue creado en forma de chiste y como herramienta didactica para el [curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github").
